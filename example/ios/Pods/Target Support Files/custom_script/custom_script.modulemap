@@ -1,0 +1,6 @@
+framework module custom_script {
+  umbrella header "custom_script-umbrella.h"
+
+  export *
+  module * { export * }
+}
