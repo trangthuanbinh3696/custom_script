@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'OptionItem.dart';
+import 'package:custom_script/src/models/OptionItem.dart';
 
 class ScriptItemWidgetModel {
   final int id;

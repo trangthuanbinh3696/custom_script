@@ -1,6 +1,6 @@
-import 'package:custom_script/OptionItem.dart';
-import 'package:custom_script/ScriptItemWidgetModel.dart';
-import 'package:custom_script/ScriptItemWrapper.dart';
+import 'package:custom_script/src/ScriptItemWrapper.dart';
+import 'package:custom_script/src/models/OptionItem.dart';
+import 'package:custom_script/src/models/ScriptItemWidgetModel.dart';
 
 ///BUSINESS CURRENTLY
 import 'package:flutter/material.dart';
