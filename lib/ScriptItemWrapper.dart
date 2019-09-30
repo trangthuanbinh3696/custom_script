@@ -41,10 +41,7 @@ class ScriptItemWrapper extends StatelessWidget {
       //   ],
       // )
     } else {
-      return Container(
-        margin: EdgeInsets.symmetric(vertical: 4),
-        child: child
-      );
+      return Container(margin: EdgeInsets.symmetric(vertical: 4), child: child);
     }
   }
 }

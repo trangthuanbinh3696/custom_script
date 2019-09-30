@@ -1,12 +1,12 @@
+import 'package:custom_script/OptionItem.dart';
+import 'package:custom_script/ScriptItemWidgetModel.dart';
+import 'package:custom_script/ScriptItemWrapper.dart';
+
 ///BUSINESS CURRENTLY
 import 'package:flutter/material.dart';
 import 'dart:math';
 import 'dart:convert';
-
-import 'src/model/OptionItem.dart';
-import 'src/model/ScriptItemWidgetModel.dart';
 import 'src/constants/constants.dart';
-import 'src/ScriptItemWrapper.dart';
 
 enum WidgetType { TEXT, TEXT_INPUT, RADIO_BUTTON, CHECK_BOX }
 
