@@ -1,6 +1,7 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
+ENV['SWIFT_VERSION'] = '4'
 Pod::Spec.new do |s|
   s.name             = 'custom_script'
   s.version          = '0.0.1'
